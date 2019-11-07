@@ -1,1 +1,6 @@
+- JSON Formatter [link](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+- DejaVue [link](https://chrome.google.com/webstore/detail/dejavue/jpigngmphmclcmikmcbcfplgnhlnefbp)
+- Page Analytics (by Google) [link](https://chrome.google.com/webstore/detail/page-analytics-by-google/fnbdnhhicmebfgdgglcdacdapkcihcoh)
+- Vue.js devtools [link](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
 - Tooltip Dictionary [link](https://chrome.google.com/webstore/detail/tooltip-dictionary-englis/hcidimjcobcnahiceedndikkenbibpop)
+- 네이버 영어사전 (Naver English Dictionary) [link](https://chrome.google.com/webstore/detail/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%98%81%EC%96%B4%EC%82%AC%EC%A0%84-naver-english-di/jfibpeiddefellcfgnijpcpddoimbdij)
