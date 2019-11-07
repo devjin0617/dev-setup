@@ -1,0 +1,37 @@
+#!/bin/sh
+
+code --install-extension octref.vetur
+code --install-extension robertohuertasm.vscode-icons
+code --install-extension think2011.vue-i18n
+code --install-extension redhat.vscode-yaml
+code --install-extension dariofuzinato.vue-peek
+code --install-extension wayou.vscode-todo-highlight
+code --install-extension adamwalzer.scss-lint
+code --install-extension humao.rest-client
+code --install-extension WallabyJs.quokka-vscode
+code --install-extension esbenp.prettier-vscode
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension eg2.vscode-npm-script
+code --install-extension felipe.nasc-touchbar
+code --install-extension ms-kubernetes-tools.vscode-kubernetes-tools
+code --install-extension ipedrazas.kubernetes-snippets
+code --install-extension xabikos.javascriptsnippets
+code --install-extension wix.vscode-import-cost
+code --install-extension kumar-harsh.graphql-for-vscode
+code --install-extension eamodio.gitlens
+code --install-extension GitHub.vscode-pull-request-github
+code --install-extension felipecaputo.git-project-manager
+code --install-extension donjayamanne.githistory
+code --install-extension waderyan.gitblame
+code --install-extension Dart-Code.flutter
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension EditorConfig.EditorConfig
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension Dart-Code.dart-code
+code --install-extension softwaredotcom.swdc-vscode
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension alefragnani.Bookmarks
+code --install-extension HookyQR.beautify
+code --install-extension formulahendry.auto-close-tag
+code --install-extension ms-vscode.sublime-keybindings
+code --install-extension kisstkondoros.vscode-codemetrics
