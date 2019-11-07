@@ -1,0 +1,1 @@
+- Tooltip Dictionary (link)[https://chrome.google.com/webstore/detail/tooltip-dictionary-englis/hcidimjcobcnahiceedndikkenbibpop]
