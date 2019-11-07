@@ -20,6 +20,7 @@ code --install-extension wix.vscode-import-cost
 code --install-extension kumar-harsh.graphql-for-vscode
 code --install-extension eamodio.gitlens
 code --install-extension GitHub.vscode-pull-request-github
+code --install-extension vector-of-bool.gitflow
 code --install-extension felipecaputo.git-project-manager
 code --install-extension donjayamanne.githistory
 code --install-extension waderyan.gitblame
