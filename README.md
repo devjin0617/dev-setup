@@ -7,3 +7,11 @@
 - [ ] IntelliJ
 - [ ] Mac
 - [ ] Windows
+
+# code to vscode
+
+`~/.zshrc` 에 아래 코드를 추가하면 `code` 로 Visual Studio Code를 실행할 수 있습니다.
+
+```
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+```
