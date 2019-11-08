@@ -11,3 +11,9 @@ git clone https://github.com/powerline/fonts.git /tmp/powerlevel9k-fonts && cd $
 sh ./install.sh
 cd .. && rm -rf /tmp/powerlevel9k-fonts
 
+echo '\nNVM install\n'
+sudo curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash
+echo 'export NVM_DIR="$HOME/.nvm"' >> ~/.zshrc
+echo '[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" # This loads nvm' >> ~/.zshrc
+zsh
+
