@@ -1,0 +1,37 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "editor.tabSize": 2,
+    "git.autofetch": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.run": "onSave",
+    "showMusicMetrics": false,
+    "showGitMetrics": false,
+    "showWeeklyRanking": false,
+    "prettier.disableLanguages": [
+        "markdown"
+    ],
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "*.vue": "vue"
+    },
+    "eslint.validate": [
+        {
+            "language": "javascript",
+            "autoFix": true
+        },
+        {
+            "language": "javascriptreact",
+            "autoFix": true
+        },
+        {
+            "language": "html",
+            "autoFix": true
+        },
+        {
+            "language": "vue",
+            "autoFix": true
+        }
+    ],
+    "vetur.format.defaultFormatter.js": "none"
+}
