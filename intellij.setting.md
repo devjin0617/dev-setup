@@ -14,3 +14,4 @@
 - http://color-themes.com/?view=theme&id=563a1a6380b4acf11273ae41: 개취테마 => `File - Import Settings...`
 - Quokka: 미리미리 확인해보고 개발해볼 수 있도록 도와줍니다.
 - iterm plugin: 기본적으로 `iterm` 을 실행할 수 있도록 해줍니다. `native terminal` 플러그인에서 `iterm` 이 고정되도록 변형되었습니다.
+- Material Theme UI: IntelliJ의 못생긴 UI를 약간 vscode 느낌의 테마로 변경해줍니다.
