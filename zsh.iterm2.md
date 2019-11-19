@@ -18,4 +18,6 @@ $ cd .. && rm -rf /tmp/powerlevel9k-fonts
 
 ## iterm2
 
+install iterm2: https://iterm2.com/downloads.html
+
 ## vim
